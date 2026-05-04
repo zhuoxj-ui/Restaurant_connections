@@ -1,0 +1,15 @@
+# API keys - do not commit
+.env
+
+# Yelp dataset files are too large for GitHub
+data/yelp_academic_dataset_business.json(need download by link)
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest
+.pytest_cache/
+
+# Mac stuff
+.DS_Store
